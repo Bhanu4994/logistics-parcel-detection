@@ -3,7 +3,7 @@
 A small AI app that looks at a photo and finds **boxes** and **parcels** in it. It draws a box around each one, labels it, and counts them. I built it with a custom-trained YOLOv8 model and a Streamlit web app.
 
 **Try it here:**
-- Streamlit Cloud: `PASTE-STREAMLIT-LINK-HERE`
+- Streamlit Cloud: `https://logistics-parcel-detection-ftbtdcd2cfwlkgnoyjovod.streamlit.app/`
 - Hugging Face Space: `PASTE-HUGGING-FACE-LINK-HERE`
 
 ![App screenshot](screenshots/app_1.png)
