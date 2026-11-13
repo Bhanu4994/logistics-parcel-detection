@@ -4,7 +4,7 @@ A small AI app that looks at a photo and finds **boxes** and **parcels** in it. 
 
 **Try it here:**
 - Streamlit Cloud: `https://logistics-parcel-detection-ftbtdcd2cfwlkgnoyjovod.streamlit.app/`
-- Hugging Face Space: `PASTE-HUGGING-FACE-LINK-HERE`
+- Hugging Face Space: `https://huggingface.co/spaces/bhanu0430/logistics-parcel-detection`
 
 ![App screenshot](screenshots/app_1.png)
 ![App screenshot](screenshots/app_2.png)
